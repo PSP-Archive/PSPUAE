@@ -1,0 +1,1 @@
+copy pspuae\EBOOT.PBP K:\PSP\GAME\CAT_Emulators\PSPUAE\
